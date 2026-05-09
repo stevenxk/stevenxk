@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Steven (Kye) Xiong 👋
+# Hi there, I'm Kaitong (Kye) Xiong 👋
 
 ### 👨‍💻 Data Engineer | AI/ML Researcher | ECE Master's Student @ Duke University
 
