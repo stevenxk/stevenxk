@@ -52,7 +52,4 @@ I believe engineering is a mindset that extends beyond software. When I'm not bu
 *   🎞️ Exploring analog cinematography, shooting, and hand-processing 16mm film.
 *   🍣 Crafting "Fine Dining at Home" experiences with specialty Japanese ingredients.
 
-<br>
-<div align="center">
-  <i>"Optimizing everything from database queries to lap times."</i>
-</div>
+
